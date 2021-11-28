@@ -11,7 +11,9 @@
       "last_updated": "1638115493",
       "groups": {
         "": [
-          "/proxy/api/mangadex/chapter/8eb5097d-6e83-440d-a887-ca99573156f2"
+          "https://mangadex.org/chapter/8eb5097d-6e83-440d-a887-ca99573156f2/1",
+          "https://mangadex.org/chapter/8eb5097d-6e83-440d-a887-ca99573156f2/2",
+          "https://mangadex.org/chapter/8eb5097d-6e83-440d-a887-ca99573156f2/3"
         ]
       }
     }
